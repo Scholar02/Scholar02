@@ -1,0 +1,185 @@
+* {
+  
+}
+
+body {
+  background-image: url('Image/pexels-photo-4467127.jpeg');
+  transition-delay: 10sec;
+  font-size: 20px;
+  background-position: cover;
+}
+#btn {
+  float: right;
+  background: darkgray;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: black;
+  margin-right: 9px;
+  margin-top: 10px;
+  transition: hover 5sec;
+}
+#btn:hover {
+  background: darkgoldenrod;
+  opacity: 0.3;
+}
+#btn:active {
+  background: white;
+}
+p {
+  color: darkblue;
+  word-spacing: 0.2em;
+  font-size: 25px;
+}
+.join {
+  color: darkblue;
+  word-spacing: 0.2em;
+  font-size: 20px;
+}
+.sc {
+  color: darkblue;
+  font-family: arial, serif;
+}
+.in {
+  color: indigo;
+  font-size: 50px;
+  font-family: arial;
+}
+.ab {
+  color: indigo;
+  font-size: 45px;
+  font-family: arial;
+}
+.btn {
+  background: blue;
+  color: white;
+  border: 2px thick;
+  border-radius: 8px;
+  border-color: white;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 8px;
+  font-size: 20px;
+  transition: background 9sec;
+}
+.btn:hover {
+  color: blue;
+  background: white;
+  opacity: 0.4;
+}
+.btn:active {
+  background: blue;
+}
+.sp {
+  color: darkblue;
+  line-height: 2em;
+  font-size: 25px;
+  font-family: times new roman;
+  margin-left: 30px;
+  align-items: 2px;
+}
+.wa {
+  color: blue; 
+  text-align: center;
+  line-height: 0.2em;
+}
+.air {
+  background: white;
+  background-position: cover;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: blue;
+}
+
+cite {
+  font-weight: bold;
+}
+#a {
+  color: blue;
+}
+.pr {
+  background: darkblue;
+  padding: 10px;
+  padding-bottom: 80px;
+  color: white;
+  border: 0.4px solid;
+  border-radius: 18px;
+  margin-bottom: 20px;
+  line-height: 1.5em;
+}
+#pt {
+  color: yellow;
+}
+.pp {
+  color: white;
+}
+input[type="text"], input[type="email"], input[type="number"] {
+  padding-bottom: 40px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  justify-content: center;
+  align-items: center;
+  
+}
+::placeholder {
+  color: black;
+  font-weight: bold;
+  padding-left: 20px;
+  font-size: 15px;
+}
+.for {
+  background: darkblue;
+  padding-top: 20px;
+  width: 100%;
+  padding-bottom: 70px;
+  border-radius: 8px;
+}
+.for, h1 {
+  color: white;
+}
+dt {
+  line-height: 5px;
+}
+#src {
+  background: darkgray;
+  background-position: cover;
+  padding: 3px;
+}
+.btns {
+  width: 90%;
+  padding: 10px;
+  background: blue;
+  font-family: coursiver;
+  border: 1px thick;
+  border-radius: 5px;
+  border-color: white;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.datau {
+  color: red;
+  text-decoration: none;
+  color: chartreuse;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: popping;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
+.image {
+  background: white;
+  padding: 20px;
+  padding-top: 50px;
+}
+footer {
+  background: lightcyan;
+  padding: 30px;
+  text-align: center;
+}
+#foot {
+  font-size: 15px;
+}
